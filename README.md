@@ -1,1 +1,1 @@
-# diceegame
+# my first game using Javascript
